@@ -23,7 +23,7 @@ The dataset contains table information of customers, sellers, products, and orde
 - Annual Product Category Quality
 - Annual Payment Type Usage
 
-The results of the business performance analysis of customer growth increased every year, with monthly active users increasing by 16% in the past year. Product quality also increased with the health and beauty category being the best-selling in the past year. Credit card is the most favorite customer payment method all the time.
+The results of the business performance analysis of customer growth increased every year, with monthly active users increasing by 16% in the past year. Product quality also increases with best-selling products are health and beauty categories. The credit card is the most favorite customer payment method all the time.
 <br>
 
 🛠 **Tools :** <br>
@@ -58,9 +58,9 @@ COUNT, CASE WHEN Function, Window Function, JOIN, CTE, Aggregation
 
 ---
 
-### 📂 **Mid-Course Project - Advanced SQL: MySQL Data Analysis and Business Intelligence**
+### 📂 **Mid-Course Project - Analyze Website Traffic and Performance Maven Fuzzy Factory**
 📍 **Description :** <br>
-This project was provided by the SQL course that I was enrolled in. I have a role as an analyst who helps the CEO of an e-commerce company Maven Fuzzy Factory to extract and analyze website traffic and performance data from the database to quantify the company’s growth.
+This project is provided by the course that I am currently enrolled in, *Advanced SQL : MySQL Data Analysis and Business Intelligence*. I got a role as an analyst who assisting the CEO of an e-commerce, Maven Fuzzy Factory to extract and analyze website traffic and performance data from the database to measure the company's growth.
 
 🛠 **Tools :** <br>
 MySQL, SQL Workbench
