@@ -17,7 +17,7 @@ This repository is containing a portfolio of data science and data analyst proje
 ## 📚 **SQL**
 ---
 ### 📂 **Analyzing eCommerce Business Performance with SQL**
-**Description :** <br>
+📍 **Description :** <br>
 The dataset contains table information of customers, sellers, products, and orders with 99441 records. The objectives are measuring the business performance of e-commerce in Brazil based on:
 - Annual Customer Activity Growth
 - Annual Product Category Quality
@@ -26,11 +26,11 @@ The dataset contains table information of customers, sellers, products, and orde
 The results of the business performance analysis of customer growth increased every year, with monthly active users increasing by 16% in the past year. Product quality also increased with the health and beauty category being the best-selling in the past year. Credit card is the most favorite customer payment method all the time.
 <br>
 
-**Tools :** <br>
+🛠 **Tools :** <br>
 Postgresql, PgAdmin, Ms. Excel for Visualization
 <br>
 
-**Function :**<br>
+💻 **Function :**<br>
 CREATE TABLE, DATEPART, ALTER, CASE WHEN, JOIN, CTE, Aggregation, Window function, create ERD
 <br>
 
@@ -40,17 +40,17 @@ CREATE TABLE, DATEPART, ALTER, CASE WHEN, JOIN, CTE, Aggregation, Window functio
 ---
 
 ### 📂 **Case Study #1 - Danny's Diner**
-**Description :** <br>
+📍 **Description :** <br>
 Case Study #1 - Danny's Diner is my self-study project that I have completed for the 8WeekSQLchallenge. 
 
 In early 2021, Danny opened a little Japanese restaurant. I help Danny to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent, and also which menu items are their favorite based on sales historical data.
 <br>
 
-**Tools :** <br>
+🛠 **Tools :** <br>
 Postgresql, PgAdmin
 <br>
 
-**Function :**<br>
+💻 **Function :**<br>
 COUNT, CASE WHEN Function, Window Function, JOIN, CTE, Aggregation
 
 **Click [here](https://github.com/faizns/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) to view full project documentation!**
@@ -59,14 +59,14 @@ COUNT, CASE WHEN Function, Window Function, JOIN, CTE, Aggregation
 ---
 
 ### 📂 **Mid-Course Project - Advanced SQL: MySQL Data Analysis and Business Intelligence**
-**Description :** <br>
+📍 **Description :** <br>
 This project was provided by the SQL course that I was enrolled in. I have a role as an analyst who helps the CEO of an e-commerce company Maven Fuzzy Factory to extract and analyze website traffic and performance data from the database to quantify the company’s growth.
 
-**Tools :** <br>
+🛠 **Tools :** <br>
 MySQL, SQL Workbench
 <br>
 
-**Function :**<br>
+💻 **Function :**<br>
 Aggregation, CASE WHEN Function, Window Function, JOIN, CTE, Temporary Table, Subqueries, Pivoting Data with COUNT and CASE, DATE Function
 
 **Click [here](https://github.com/faizns/Udemy-Advanced-MySQL-Data-Analysis/blob/main/MID_COURSE_PROJECT.md) to view full project documentation!**
@@ -78,14 +78,21 @@ Aggregation, CASE WHEN Function, Window Function, JOIN, CTE, Temporary Table, Su
 ---
 ### 📂 **Online Shoppers Purchasing Intention**
 
-**Description :** <br>
+📍 **Description :** <br>
+This was completed for Rakamin Academy's final project.
 
+Majestic is an E-commerce (marketplace) company that only generated a 15% conversion rate last year from customers who visited the website. As a data scientist team, we will do analysis to gain insight into the pattern of customer habits in browsing the website, create machine learning models that can predict customers who are likely to purchase or not and provide business recommendations based on the findings and model results.
 
-**Library :**
+The result with the best performance is the Random Forest algorithm with a ROC-AUC value of 0.90 with the importance features are page value, exit rates and product related. From the business simulation with the model that has been built, it will result in an increase in revenue conversion rate of 58%.
+<br>
+
+🛠 **Library :**
 Pandas, Matplotlib, Numpy, Seaborn, Sklearn
+<br>
 
-**Area :**
+💻 **Area :**
 Data Cleaning and Manipulation, EDA, Supervised Learning, Classification
+<br>
 
 **Click [here](https://github.com/faizns/Online-Shoppers-Purchasing-Intention) to view full project documentation!**
 <br>
@@ -94,14 +101,21 @@ Data Cleaning and Manipulation, EDA, Supervised Learning, Classification
 
 ### 📂 **Airline Customer Segmentation Based on LRFMC Model Using KMeans**
 
-**Description :** <br>
+📍 **Description :** <br>
+This project was completed for Rakamin Academy's homework.
 
+Help airline companies to maximize profits by focusing resources and marketing on customers who are valuable to the company by segmenting customers based on the LRFMC model using K-Means. In addition, we analyze the characteristics of each cluster generated and provide business insights.
 
-**Library :**
+From the model results, 5 clusters were obtained: 26% are New Users, 20% are Loyal Customers, 19% are Potential Loyalists/Candidate Loyalists, 18% are Need Attention, and 16% are Hibernating.
+<br>
+
+🛠 **Library :**
 Pandas, Matplotlib, Numpy, Seaborn, Sklearn, Yellowbrick
+<br>
 
-**Area :**
+💻 **Area :**
 Data Cleaning and Manipulation, EDA, Unsupervised Learning, Clustering
+<br>
 
 **Click [here](https://github.com/faizns/Airline-Customer-Segmentation-Based-on-LRFMC-Model-Using-KMeans) to view full project documentation!**
 <br>
@@ -109,5 +123,5 @@ Data Cleaning and Manipulation, EDA, Unsupervised Learning, Clustering
 ---
 
 ## **Let's collaborate together!**
-- LinkedIn
-- Email
+- [LinkedIn](https://www.linkedin.com/in/faizns/)
+- [Email](naidasalimah@gmail.com)
