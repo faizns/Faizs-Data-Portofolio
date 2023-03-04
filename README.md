@@ -11,7 +11,7 @@ This repository is containing a portfolio of data science and data analyst proje
 ### **Table of Content**
 - [SQL](https://github.com/faizns/Faizs-Data-Portofolio#-sql)
 - [Python](https://github.com/faizns/Faizs-Data-Portofolio#-python)
-- [Tableau](https://github.com/faizns/Faizs-Data-Portofolio#-tableau)
+- [Visualization: Dashboard](https://github.com/faizns/Faizs-Data-Portofolio#-tableau)
 <br>
 
 
@@ -117,7 +117,7 @@ Data Cleaning and Manipulation, EDA, Supervised Learning, Classification
 <br>
 <br>
 
-**Click [here](https://github.com/faizns/Online-Shoppers-Purchasing-Intention) to view full project documentation!**
+**Click [here](https://github.com/faizns/Online-Shoppers-Purchasing-Intention) to view full project documentation!** <br>
 [**Presentation slide**](https://github.com/faizns/Online-Shoppers-Purchasing-Intention/blob/main/Majestic%20Final%20Presentation.pdf)
 <br>
 <br>
@@ -149,19 +149,49 @@ Data Cleaning and Manipulation, EDA, Unsupervised Learning, Clustering
 <br>
 <br>
 
-## 📚 **Tableau**
+## 📚 **Dashboard**
 ---
-### 📂 **Targeted Customer Demographic Dashboard**
+### 📂 **Sales Report Dashboard**
+
+📍 **Description :** <br>
+VIX Big Data Analytics Kimia Farma
+<br>
+<br>
+
+🛠 **Tools :** <br>
+Looker Data Studio
+<br>
+<br>
 
 <p align="center">
-  <kbd> <img width="600" alt="msg" src="https://user-images.githubusercontent.com/115857221/217406894-3088170d-d115-42ba-94b5-1a72af175f9b.png"> </kbd> <br>
+  <kbd> <img width="800" alt="Kimia_Farma_page-0001" src="https://user-images.githubusercontent.com/115857221/222877035-53371a89-081d-4ec5-9e72-65b0176a96fd.jpg"> </kbd> <br>
 </p>
 <br>
 
-📍 **Description :** <br>
-Data Analytics Virtual Internship Experience KPMG AU
+**Click [here](https://lookerstudio.google.com/reporting/3c67b292-3be2-484d-bc29-27bd0b4015fd) to view on Looker!** <br>
+**[View full documentation](https://github.com/faizns/VIX-Big-Data-Analytics-Kimia-Farma)**
+<br>
+<br>
 
-**Click [here](https://public.tableau.com/app/profile/faiz.naida.salimah/viz/TargetedCustomersDemographicDashboard-KPMGVIX/TargetedCustomerDemographic) to view on Tableau!**
+---
+### 📂 **Targeted Customer Demographic Dashboard**
+📍 **Description :** <br>
+Data Analytics Virtual Internship Experience KPMG AU 
+<br>
+<br>
+
+🛠 **Tools :** <br>
+Tableau
+<br>
+<br>
+
+<p align="center">
+  <kbd> <img width="800" alt="msg" src="https://user-images.githubusercontent.com/115857221/217406894-3088170d-d115-42ba-94b5-1a72af175f9b.png"> </kbd> <br>
+</p>
+<br>
+
+**Click [here](https://public.tableau.com/app/profile/faiz.naida.salimah/viz/TargetedCustomersDemographicDashboard-KPMGVIX/TargetedCustomerDemographic) to view on Tableau!** <br>
+**[View full documentation]()**
 <br>
 <br>
 
