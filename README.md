@@ -1,4 +1,4 @@
-# **Data Portofolio: Faiz Naida Salimah**
+# **Data Portofolio**
 ## 👋 **Introduction**
 
 Hi! I'm Faiz, an aspiring data analysis or data science professional who seeking to apply my knowledge to real-world experiences. 
@@ -10,14 +10,22 @@ This repository is containing a portfolio of data science and data analyst proje
 
 ### **Table of Content**
 - [SQL](https://github.com/faizns/Faizs-Data-Portofolio#-sql)
+  - [Analyzing eCommerce Business Performance with SQL](https://github.com/faizns/Faizs-Data-Portofolio#-analyzing-ecommerce-business-performance-with-sql)
+  - [Analyzing Website Traffic and Performance](https://github.com/faizns/Faizs-Data-Portofolio#-analyzing-website-traffic-and-performance)
 - [Python](https://github.com/faizns/Faizs-Data-Portofolio#-python)
-- [Visualization: Dashboard](https://github.com/faizns/Faizs-Data-Portofolio#-tableau)
+  - [Online Shoppers Purchasing Intention](https://github.com/faizns/Faizs-Data-Portofolio#-online-shoppers-purchasing-intention)
+  - [Airline Customer Segmentation Based on LRFMC Model Using K-Means](https://github.com/faizns/Faizs-Data-Portofolio#-airline-customer-segmentation-based-on-lrfmc-model-using-k-means)
+- [Dashboard](https://github.com/faizns/Faizs-Data-Portofolio#-dashboard)
+  - [Sales Report Dashboard - VIX Big Data Analytics Kimia Farma](https://github.com/faizns/Faizs-Data-Portofolio#-sales-report-dashboard---vix-big-data-analytics-kimia-farma)
+  - [Targeted Customer Demographic Dashboard - VIX Data Analytics KPMG Australia](https://github.com/faizns/Faizs-Data-Portofolio#-targeted-customer-demographic-dashboard-vix-data-analytics-kpmg-australia)
 <br>
 
 
 ## 📚 **SQL**
 ---
 ### 📂 **Analyzing eCommerce Business Performance with SQL**
+[**View Full Documentation**](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL)
+
 📍 **Description :** <br>
 The dataset has  99441 records containing table of customers, sellers, products, and orders. The objectives are measuring the business performance of e-commerce in Brazil based on:
 - Annual Customer Activity Growth
@@ -38,35 +46,10 @@ CREATE TABLE, DATEPART, ALTER, CASE WHEN, JOIN, CTE, Aggregate Function, Window 
 <br>
 <br>
 
-**Click [here](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL) to view full project documentation!**
-<br>
-
 ---
-
-### 📂 **Case Study #1 - Danny's Diner**
-📍 **Description :** <br>
-Case Study #1 - Danny's Diner is my self-study project that I have completed for the [8WeekSQLchallenge](https://8weeksqlchallenge.com/getting-started/). 
-
-In early 2021, Danny opened a little Japanese restaurant. I help Danny to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent, and also which menu items are their favorite based on sales historical data.
-<br>
-<br>
-
-🛠 **Tools :** <br>
-Postgresql, PgAdmin
-<br>
-<br>
-
-💻 **Function :**<br>
-COUNT, CASE WHEN Function, Window Function, JOIN, CTE, Aggregate Function
-<br>
-<br>
-
-**Click [here](https://github.com/faizns/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) to view full project documentation!**
-<br>
-
----
-
 ### 📂 **Analyzing Website Traffic and Performance**
+[**View Full Documentation**](https://github.com/faizns/Udemy-Advanced-MySQL-Data-Analysis/blob/main/MID_COURSE_PROJECT.md)
+
 📍 **Description :** <br>
 This project is from [Advanced SQL: MySQL Data Analysis and Business Intelligence](https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/?src=sac&kw=advanced+sql).
 
@@ -89,7 +72,24 @@ Aggregate Function, CASE WHEN Function, Window Function, JOIN, CTE, Temporary Ta
 <br>
 <br>
 
-**Click [here](https://github.com/faizns/Udemy-Advanced-MySQL-Data-Analysis/blob/main/MID_COURSE_PROJECT.md) to view full project documentation!**
+---
+### 📂 **Case Study #1 - Danny's Diner**
+[**View Full Documentation**](https://github.com/faizns/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
+
+📍 **Description :** <br>
+Case Study #1 - Danny's Diner is my self-study project that I have completed for the [8WeekSQLchallenge](https://8weeksqlchallenge.com/getting-started/). 
+
+In early 2021, Danny opened a little Japanese restaurant. I help Danny to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent, and also which menu items are their favorite based on sales historical data.
+<br>
+<br>
+
+🛠 **Tools :** <br>
+Postgresql, PgAdmin
+<br>
+<br>
+
+💻 **Function :**<br>
+COUNT, CASE WHEN Function, Window Function, JOIN, CTE, Aggregate Function
 <br>
 <br>
 <br>
@@ -98,6 +98,8 @@ Aggregate Function, CASE WHEN Function, Window Function, JOIN, CTE, Temporary Ta
 ## 📚 **Python**
 ---
 ### 📂 **Online Shoppers Purchasing Intention**
+[**View Full Documentation**](https://github.com/faizns/Online-Shoppers-Purchasing-Intention) | [**View Presentation**](https://github.com/faizns/Online-Shoppers-Purchasing-Intention/blob/main/Majestic%20Final%20Presentation.pdf)
+
 📍 **Description :** <br>
 This was completed for Rakamin Academy's final project.
 
@@ -117,14 +119,11 @@ Data Cleaning and Manipulation, EDA, Supervised Learning, Classification
 <br>
 <br>
 
-**Click [here](https://github.com/faizns/Online-Shoppers-Purchasing-Intention) to view full project documentation!** <br>
-[**Presentation slide**](https://github.com/faizns/Online-Shoppers-Purchasing-Intention/blob/main/Majestic%20Final%20Presentation.pdf)
-<br>
-<br>
-
 ---
 
-### 📂 **Airline Customer Segmentation Based on LRFMC Model Using KMeans**
+### 📂 **Airline Customer Segmentation Based on LRFMC Model Using K-Means**
+[**View Full Documentation**](https://github.com/faizns/Airline-Customer-Segmentation-Based-on-LRFMC-Model-Using-KMeans)
+
 📍 **Description :** <br>
 This project was completed for Rakamin Academy's homework.
 
@@ -143,15 +142,12 @@ Pandas, Matplotlib, Numpy, Seaborn, Sklearn, Yellowbrick
 Data Cleaning and Manipulation, EDA, Unsupervised Learning, Clustering
 <br>
 <br>
-
-**Click [here](https://github.com/faizns/Airline-Customer-Segmentation-Based-on-LRFMC-Model-Using-KMeans) to view full project documentation!**
-<br>
-<br>
 <br>
 
 ## 📚 **Dashboard**
 ---
-### 📂 **Sales Report Dashboard**
+### 📂 **Sales Report Dashboard - VIX Big Data Analytics Kimia Farma**
+[**View Full Documentation**](https://github.com/faizns/VIX-Big-Data-Analytics-Kimia-Farma) | [**View Dashboard on Looker Data Studio**](https://lookerstudio.google.com/reporting/3c67b292-3be2-484d-bc29-27bd0b4015fd)
 
 📍 **Description :** <br>
 VIX Big Data Analytics Kimia Farma
@@ -159,7 +155,7 @@ VIX Big Data Analytics Kimia Farma
 <br>
 
 🛠 **Tools :** <br>
-Looker Data Studio
+Looker Data Studio, MySQL
 <br>
 <br>
 
@@ -167,31 +163,28 @@ Looker Data Studio
   <kbd> <img width="800" alt="Kimia_Farma_page-0001" src="https://user-images.githubusercontent.com/115857221/222877035-53371a89-081d-4ec5-9e72-65b0176a96fd.jpg"> </kbd> <br>
 </p>
 <br>
-
-**Click [here](https://lookerstudio.google.com/reporting/3c67b292-3be2-484d-bc29-27bd0b4015fd) to view on Looker!** <br>
-**[View full documentation](https://github.com/faizns/VIX-Big-Data-Analytics-Kimia-Farma)**
-<br>
 <br>
 
 ---
-### 📂 **Targeted Customer Demographic Dashboard**
+### 📂 **Targeted Customer Demographic Dashboard - VIX Data Analytics KPMG Australia**
+[**View Full Documentation**](https://github.com/faizns/VIX-Data-Analytics-KPMG-AU) | [**View Dashboard on Tableu**](https://public.tableau.com/app/profile/faiz.naida.salimah/viz/TargetedCustomersDemographicDashboard-KPMGVIX/TargetedCustomerDemographic)
+
 📍 **Description :** <br>
-Data Analytics Virtual Internship Experience KPMG AU 
-<br>
+KPMG is a global organization of independent professional firms that provides a range of services to organizations across various industries, government, and non-profit sectors. Under the KPMG Digital Solutions service, as part of the Data, Analytics & Modeling team, we will effectively analyze data sets to help Sprocket Central Pty Ltd, a bike and bike accessories company, develop and optimize its marketing strategies.
+Task :
+- Reviewed the data based on Standard Data Quality Dimensions and identified strategies to mitigate that issues
+- Built customer segmentation based on RFM model and analyzed customer trends, behaviour, and demographic
+- Developed interactive dashboard <br>
 <br>
 
 🛠 **Tools :** <br>
-Tableau
+Tableau, Python
 <br>
 <br>
 
 <p align="center">
   <kbd> <img width="800" alt="msg" src="https://user-images.githubusercontent.com/115857221/217406894-3088170d-d115-42ba-94b5-1a72af175f9b.png"> </kbd> <br>
 </p>
-<br>
-
-**Click [here](https://public.tableau.com/app/profile/faiz.naida.salimah/viz/TargetedCustomersDemographicDashboard-KPMGVIX/TargetedCustomerDemographic) to view on Tableau!** <br>
-**[View full documentation]()**
 <br>
 <br>
 
