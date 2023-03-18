@@ -13,9 +13,14 @@ This repository is containing a portfolio of data science and data analyst proje
   - [Analyzing eCommerce Business Performance with SQL](https://github.com/faizns/Faizs-Data-Portofolio#-analyzing-ecommerce-business-performance-with-sql)
   - [Analyzing Website Traffic and Performance](https://github.com/faizns/Faizs-Data-Portofolio#-analyzing-website-traffic-and-performance)
 - [Python](https://github.com/faizns/Faizs-Data-Portofolio#-python)
+  - Investigate Hotel Business using Data Visualization
+  - Predict Customer Personality to Boost Marketing Campaign
+  - Predict Customer Clicked Ads Classification
+  - Improving Employee Retention by Predicting Employee Attrition
   - [Online Shoppers Purchasing Intention](https://github.com/faizns/Faizs-Data-Portofolio#-online-shoppers-purchasing-intention)
   - [Airline Customer Segmentation Based on LRFMC Model Using K-Means](https://github.com/faizns/Faizs-Data-Portofolio#-airline-customer-segmentation-based-on-lrfmc-model-using-k-means)
 - [Dashboard](https://github.com/faizns/Faizs-Data-Portofolio#-dashboard)
+  - [Indonesia Covid-19 Dashboard](https://github.com/faizns/Faizs-Data-Portofolio#-indonesia-covid---19-dashboard)
   - [Sales Report Dashboard - VIX Big Data Analytics Kimia Farma](https://github.com/faizns/Faizs-Data-Portofolio#-sales-report-dashboard---vix-big-data-analytics-kimia-farma)
   - [Targeted Customer Demographic Dashboard - VIX Data Analytics KPMG Australia](https://github.com/faizns/Faizs-Data-Portofolio#-targeted-customer-demographic-dashboard-vix-data-analytics-kpmg-australia)
 <br>
@@ -134,24 +139,48 @@ From the model results, 5 clusters were obtained: 26% are New Users, 20% are Loy
 <br>
 
 🛠 **Library :**<br>
-Pandas, Matplotlib, Numpy, Seaborn, Sklearn, Yellowbrick
+Pandas, Matplotlib, Numpy, Seaborn, Sklearn, Yellowbrick,
 <br>
 <br>
 
 💻 **Area :**<br>
-Data Cleaning and Manipulation, EDA, Unsupervised Learning, Clustering
+Data Cleaning and Manipulation, EDA, Unsupervised Learning, K-Means, PCA
 <br>
 <br>
 <br>
 
 ## 📚 **Dashboard**
 ---
+### 📂 **Indonesia Covid-19 Dashboard**
+[**View Dashboard on Looker Data Studio**](https://lookerstudio.google.com/reporting/f318d486-1675-405f-ad48-c58a11a3a842)
+
+📍 **Description :** <br>
+This project (team) was done to complete one of the challenges in the FGA program, Data Science Batch 1 - Kominfo x Binar Academy. We created a dashboard that displays information about the update of COVID cases in Indonesia, such as new active cases, new confirmed cases, new deaths, and recoveries.<br>
+<br>
+
+🛠 **Tools :** <br>
+Looker Data Studio, BigQuery
+<br>
+<br>
+
+<p align="center">
+  <kbd> <img width="800" alt="Covid _Dashboard_-_Kelompok_DS-3-J_page-0001" src="https://user-images.githubusercontent.com/115857221/226123784-3ae8ccc5-af6b-484f-b4a2-ff1356786b18.jpg"> </kbd> <br>
+</p>
+<br>
+<br>
+
+---
+
 ### 📂 **Sales Report Dashboard - VIX Big Data Analytics Kimia Farma**
 [**View Full Documentation**](https://github.com/faizns/VIX-Big-Data-Analytics-Kimia-Farma) | [**View Dashboard on Looker Data Studio**](https://lookerstudio.google.com/reporting/3c67b292-3be2-484d-bc29-27bd0b4015fd)
 
 📍 **Description :** <br>
-VIX Big Data Analytics Kimia Farma
-<br>
+In this project, I worked as a Data Analyst Intern who was asked to analyze and create company sales reports based on provided data. 
+
+Task :
+- Created a database with the following dataset in sales, customer, and item
+- Queried dataset into the base table and aggregate table using MySQL
+- Built an interactive dashboard from sales data in a half year using Google Data Studio<br>
 <br>
 
 🛠 **Tools :** <br>
@@ -171,6 +200,7 @@ Looker Data Studio, MySQL
 
 📍 **Description :** <br>
 KPMG is a global organization of independent professional firms that provides a range of services to organizations across various industries, government, and non-profit sectors. Under the KPMG Digital Solutions service, as part of the Data, Analytics & Modeling team, we will effectively analyze data sets to help Sprocket Central Pty Ltd, a bike and bike accessories company, develop and optimize its marketing strategies.
+
 Task :
 - Reviewed the data based on Standard Data Quality Dimensions and identified strategies to mitigate that issues
 - Built customer segmentation based on RFM model and analyzed customer trends, behaviour, and demographic
