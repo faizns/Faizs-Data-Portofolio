@@ -76,27 +76,6 @@ MySQL, SQL Workbench
 Aggregate Function, CASE WHEN Function, Window Function, JOIN, CTE, Temporary Table, Subqueries, Pivoting Data with COUNT and CASE, DATE Function
 <br>
 <br>
-
----
-### 📂 **Case Study #1 - Danny's Diner**
-[**View Full Documentation**](https://github.com/faizns/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
-
-📍 **Description :** <br>
-Case Study #1 - Danny's Diner is my self-study project that I have completed for the [8WeekSQLchallenge](https://8weeksqlchallenge.com/getting-started/). 
-
-In early 2021, Danny opened a little Japanese restaurant. I help Danny to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent, and also which menu items are their favorite based on sales historical data.
-<br>
-<br>
-
-🛠 **Tools :** <br>
-Postgresql, PgAdmin
-<br>
-<br>
-
-💻 **Function :**<br>
-COUNT, CASE WHEN Function, Window Function, JOIN, CTE, Aggregate Function
-<br>
-<br>
 <br>
 
 
