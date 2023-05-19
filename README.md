@@ -13,7 +13,7 @@ This repository is containing a portfolio of data science and data analyst proje
   - [Analyzing eCommerce Business Performance with SQL](https://github.com/faizns/Faizs-Data-Portofolio#-analyzing-ecommerce-business-performance-with-sql)
   - [Analyzing Website Traffic and Performance](https://github.com/faizns/Faizs-Data-Portofolio#-analyzing-website-traffic-and-performance)
 - [Python](https://github.com/faizns/Faizs-Data-Portofolio#-python)
-  - Investigate Hotel Business using Data Visualization
+  - [Investigate Hotel Business using Data Visualization](https://github.com/faizns/Faizs-Data-Portofolio#-investigate-hotel-business-using-data-visualization)
   - Predict Customer Personality to Boost Marketing Campaign
   - Predict Customer Clicked Ads Classification
   - Improving Employee Retention by Predicting Employee Attrition
@@ -81,6 +81,28 @@ Aggregate Function, CASE WHEN Function, Window Function, JOIN, CTE, Temporary Ta
 
 ## 📚 **Python**
 ---
+### 📂 **Investigate Hotel Business using Data Visualization**
+[**View Full Documentation**](https://github.com/faizns/Investigate-Hotel-Business-using-Data-Visualization)
+
+📍 **Description :** <br>
+This analysis, conducted as a mini-project by Rakamin Academy, focuses on evaluating the performance of the hotel industry using visualizations. The objective is to identify issues, weaknesses, and strengths within the hotel business by understanding customer behavior and adjusting strategies accordingly.
+
+In summary, City Hotel dominates in customer bookings, especially during holiday seasons. Cancellation rates tend to increase with longer stays, particularly in City Hotel. Shorter lead times result in fewer cancellations, while City Hotel faces higher cancellation rates for longer lead times. Resort Hotel exhibits a consistent cancellation rate of around 40%.
+<br>
+<br>
+
+🛠 **Library :**<br>
+Pandas, Matplotlib, Seaborn
+<br>
+<br>
+
+💻 **Area :**<br>
+Data Cleaning and Manipulation, EDA, Data Visualization
+<br>
+<br>
+
+---
+
 ### 📂 **Online Shoppers Purchasing Intention**
 [**View Full Documentation**](https://github.com/faizns/Online-Shoppers-Purchasing-Intention) | [**View Presentation**](https://github.com/faizns/Online-Shoppers-Purchasing-Intention/blob/main/Majestic%20Final%20Presentation.pdf)
 
