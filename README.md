@@ -3,10 +3,10 @@ Hi there! This documentation is like a quick snapshot of my project in the data 
 
 **Table of Contens :**
 - [Data Engineering](https://github.com/faizns/Faizs-Data-Portofolio#-data-ngineering)
-- [Python: Data Analysis and Machine Learning](#-python:-data-analysis-and-machine-learning)
-- [SQL](#-sqlg)
-- [Dashboard](#-dashboardg)
-- [Complate Course and Certification](#-complate-course-and-certification)
+- [Python: Data Analysis and Machine Learning](https://github.com/faizns/Faizs-Data-Portofolio#-python:-data-analysis-and-machine-learning)
+- [SQL](https://github.com/faizns/Faizs-Data-Portofolio#-sqlg)
+- [Dashboard](https://github.com/faizns/Faizs-Data-Portofolio#-dashboard)
+- [Complated Course and Certification](https://github.com/faizns/Faizs-Data-Portofolio#-complated-course-and-certification)
 
 
 <br>
@@ -51,23 +51,20 @@ Project Link | Associated | Area | Tools | Project Description
 Project Link | Associated | Tools | Project Description
 ---|---|---|---
 💊 [Sales Report Dashboard](https://lookerstudio.google.com/reporting/3c67b292-3be2-484d-bc29-27bd0b4015fd) | VIX - PT. Kimia Farma, Tbk: Big Data Analyst | Looker Studio|Created a data mart, analyzed the provided data, and generated sales reports for the company. Additionally, developed a dashboard that primarily focuses on sales data from a six-month period, including key performance indicatorssuch as total revenue per month, total sales per branch location, total sales by product, and more.
-💉[Indonesia Covid-19 Dashboard](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL) |Challenge by Binar Academy [*Team*]|Looker Studio, BingQuery | Displayedinformation about the update of COVID cases in Indonesia, such as new active cases, new confirmed cases, new deaths, and recoveries.
+💉[Indonesia Covid-19 Dashboard](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL) |Challenge by Binar Academy [*Team*]|Looker Studio, BingQuery | Presented information about the update of COVID cases in Indonesia, such as new active cases, new confirmed cases, new deaths, and recoveries.
 👩🏻‍💻[Targeted Customer Demographic Dashboard](https://public.tableau.com/views/TargetedCustomersDemographicDashboard-KPMGVIX/TargetedCustomerDemographic?:language=en-US&:display_count=n&:origin=viz_share_link) | VIX - KPMG Australia: Data Analytic Consulting | Tableau | This dashboard provides insights into the demographics of new customers to be targeted in marketing efforts after conducting prior customer segmentation analysis.
 <br>
 <br>
 
-### 📂 Course and Certification
+### 📂 Complated Course and Certification
 
-Course or Certification | Organization | Description
----|---|---
-Advanced SQL: MySQL Data Analysis and Business Intelligent| Udemy: Maven Analytics | 
-Advanced NLP with spaCy | DataCamp
-Natural Language Processing with spaCy | DataCamp
-Introduction to Natural Language Processing in Python | DataCamp
-Data Science | Binar x Kominfo RI: Digital Talent Scolarship |
-Business Intelligence | Rakamin Academy |
-Data Science: Machine Learning Specialization | Rakamin Academy |
-Operation Management A-Z: Business Process and System | Udemy: |
-Big Data Using Python | CISCO x Kominfo RI: Digital Talent Scolarship | 
-Data Science Math Skill | Coursera: Duke University |
-Python Lanjutan | Skilvul | 
+- [Advanced SQL: MySQL Data Analysis and Business Intelligent](https://ude.my/UC-6a752a95-d22b-4710-bd1a-e227056ad481) | Udemy: Maven Analytics
+- [Advanced NLP with spaCy](https://www.datacamp.com/statement-of-accomplishment/course/21cbd0b3646b8cc477fff5630e8d20e6593ac9e8) | DataCamp
+- [Natural Language Processing with spaCy](https://www.datacamp.com/statement-of-accomplishment/course/05bad291fd71acbd1fa49fa7e319ce1c66440f99) | DataCamp
+- [Introduction to Natural Language Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/c6332b638b5fa9af2f61c6ef96a34ece9afbf278) | DataCamp
+- [Data Science](https://drive.google.com/file/d/15jI41wG9-IJpw9wQnerdvYVDb6MDlL6D/view?usp=sharing) | Binar x Kominfo RI: Digital Talent Scolarship
+- [Business Intelligence](https://drive.google.com/file/d/1oxUPN37HsEwsJxdcCCr-4itis7jzVWGx/view?usp=sharing) | Rakamin Academy 
+- [Data Science: Machine Learning Specialization](https://drive.google.com/file/d/1jp_QES7kNes42cqCmWYQTG0_2SbBm2EX/view?usp=sharing) | Rakamin Academy 
+- [Big Data Using Python](https://drive.google.com/file/d/1ZWTRXlOxr5-RYfjYSqnX7xXJOoXT8lVu/view) | CISCO x Kominfo RI: Digital Talent Scolarship  
+- [Data Science Math Skill](https://www.coursera.org/account/accomplishments/verify/V7HHC225KFUZ) | Coursera: Duke University 
+- [Python Lanjutan](https://badgr.com/public/assertions/MYpDoTshS82SMDNBbcYvqw?identity__email=naidasalimah@gmail.com) | Skilvul 
